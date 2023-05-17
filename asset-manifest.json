@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Kaun-Banega-Engineer/static/css/main.3ce654a8.css",
+    "main.js": "/Kaun-Banega-Engineer/static/js/main.10501c66.js",
+    "static/js/845.7c984e8f.chunk.js": "/Kaun-Banega-Engineer/static/js/845.7c984e8f.chunk.js",
+    "static/media/Kaun Banega Crorepati - Kbc Intro Sound.mp3": "/Kaun-Banega-Engineer/static/media/Kaun Banega Crorepati - Kbc Intro Sound.13eb634e40c843cb24c2.mp3",
+    "static/media/Quiz game.jpg": "/Kaun-Banega-Engineer/static/media/Quiz game.1266001024f3545bd3b7.jpg",
+    "static/media/Wrong Answer.mp3": "/Kaun-Banega-Engineer/static/media/Wrong Answer.d9bbe48f43b357825a4d.mp3",
+    "static/media/Kbc Correct Answer .mp3": "/Kaun-Banega-Engineer/static/media/Kbc Correct Answer .012d329057729c42818d.mp3",
+    "index.html": "/Kaun-Banega-Engineer/index.html",
+    "main.3ce654a8.css.map": "/Kaun-Banega-Engineer/static/css/main.3ce654a8.css.map",
+    "main.10501c66.js.map": "/Kaun-Banega-Engineer/static/js/main.10501c66.js.map",
+    "845.7c984e8f.chunk.js.map": "/Kaun-Banega-Engineer/static/js/845.7c984e8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce654a8.css",
+    "static/js/main.10501c66.js"
+  ]
+}
